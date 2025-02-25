@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "hcmod:item/silver_hobbit_coin.png"
+    }
+  }
+  
