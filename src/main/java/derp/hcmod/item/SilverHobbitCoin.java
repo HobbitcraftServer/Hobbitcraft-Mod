@@ -17,6 +17,7 @@ public class SilverHobbitCoin extends Item implements PolymerItem {
     public Item getPolymerItem(ItemStack itemStack, PacketContext packetContext) {
         return Items.GOLD_NUGGET;
     }
+    @Override
     public Identifier getPolymerItemModel(ItemStack itemStack, PacketContext context) {
         return Identifier.of("hcmod", "item/silver_hobbit_coin");
     }

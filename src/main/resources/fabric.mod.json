@@ -35,6 +35,10 @@
 		"java": ">=21",
 		"fabric-api": "*"
 	},
+	"polymer:resource_pack": {
+		"enabled": true,
+		"autohost": true
+	},
 	"suggests": {
 		"another-mod": "*"
 	}
